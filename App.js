@@ -28,7 +28,8 @@ export default class salf extends Component{
       <View style={styles.Vista}>
 
         <Image 
-        style={{width: 300, height:300}}
+        
+        style={{width: 200, height:200, marginVertical: 60}}
         source={require('./src/components/logo.png')}/>
 
       
